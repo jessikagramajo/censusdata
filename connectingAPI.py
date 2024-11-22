@@ -2,9 +2,6 @@ import requests
 import json
 import pandas as pd
 
-#let's fix ur key
-#api_key = '51572a117b34bccb26f036eecaf9940d687d3572'
-
 def call_api():
     api_url = f'https://api.census.gov/data/2020/cps/asec/mar?get=A_HGA,PRDTRACE,HTOTVAL,PEHSPNON,A_SEX,A_MARITL&for=state:*'
 
