@@ -1,2 +1,6 @@
 # censusdata
-Reading in US census data via census.gov API, cleaning data, and sending it to SQL db for further analysis.
+### Project Objective:
+* Use [US census](https://www.census.gov/data.html) data to create exploratory data visualization ([Tableau Dashboard](https://public.tableau.com/views/CensusData_17322522484070/TheStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) for educational attainment and other demographic factors.
+
+### Technology Used:
+* Python, MySQL, Tableau
